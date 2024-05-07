@@ -1,6 +1,7 @@
 # MakeMoreWithC
 ## Reproducing Andrej Karpathy's MakeMore Python code in C
 - by John Selmys <http://lotuspond.ca>
+- YouTube <https://www.youtube.com/channel/UCU0f0tEgd3BVjXTIreFnpTQ>
 ## Following Andrej Karpathy's Makemore Videos
 - [from Zero to Hero](https://www.youtube.com/@AndrejKarpathy)
 ## Using C instead of Python
