@@ -1,0 +1,13 @@
+#ifndef PRINTERS_H
+#define PRINTERS_H
+
+void    printBigrams(char *names);
+void    print(const char *title, float *matrix, int rows, int cols);
+void    printE(const char *title, float *matrix, int rows, int cols);
+void    printEmb(float *emb);
+void    printEncodedBigrams(int *X,int *Y);
+void    printInt(const char *title, int *matrix, int rows, int cols);
+void    printHistory(int history[][4]);
+void    printVocab(char **vocab,int lenVocab);
+
+#endif
